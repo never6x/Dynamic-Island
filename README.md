@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Замени app-icon.png на путь к твоей иконке (или удали строку, если иконки нет) -->
-  <img width="417" height="174" alt="изображение" src="https://github.com/user-attachments/assets/895f26ad-cafb-4be3-af25-88edb03408ec" />
+<img width="573" height="200" alt="изображение" src="https://github.com/user-attachments/assets/76f45f75-e84c-46be-a3fb-cfae14e14386" />
+
 
   <h1>Aqua Wave</h1>
   <p><b>Dynamic Island for Windows</b></p>
