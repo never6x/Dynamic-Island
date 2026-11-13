@@ -1,7 +1,36 @@
-# dynamic island for windows
+<div align="center">
+  <!-- Замени app-icon.png на путь к твоей иконке (или удали строку, если иконки нет) -->
+  <img width="417" height="174" alt="изображение" src="https://github.com/user-attachments/assets/895f26ad-cafb-4be3-af25-88edb03408ec" />
 
+  <h1>Aqua Wave</h1>
+  <p><b>Dynamic Island for Windows</b></p>
 
-Aqua Wave is a lightweight, floating media control overlay for Windows inspired by the iOS Dynamic Island. It displays current media playback information, provides smooth playback controls, and includes a built-in screen recorder with system audio support.
+  <!-- Бейджи (можно изменить версию и цвета) -->
+  <a href="#"><img src="https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square" alt="Windows"></a>
+  <a href="#"><img src="https://img.shields.io/badge/release-v1.0.0-green?style=flat-square" alt="Release"></a>
+  <a href="#"><img src="https://img.shields.io/badge/interface-English%20%7C%20Russian-purple?style=flat-square" alt="Interface"></a>
+</div>
+
+<br/>
+
+<details open>
+<summary><b>English</b> - click to read in English</summary>
+
+<br/>
+
+<p align="center">
+  A sleek, floating media control overlay for Windows inspired by the iOS Dynamic Island.<br/>
+  It displays current media playback information, provides smooth playback controls, and includes a built-in screen recorder with system audio support.
+</p>
+
+<!-- Замени preview.gif на путь к твоей гифке или скриншоту -->
+<p align="center">
+  <img src="preview.gif" width="800" alt="Aqua Wave Preview" />
+</p>
+
+</details>
+
+---
 
 ## Features
 
